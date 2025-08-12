@@ -76,7 +76,7 @@ local Library = {
     DPIScale = 1,
     CornerRadius = 4,
 
-    IsLightTheme = false,
+    IsLightTheme = true,
     Scheme = {
         BackgroundColor = Color3.fromRGB(550, 10, 15),  -- deep navy-tinted black for depth
         MainColor = Color3.fromRGB(20, 20, 30),        -- slightly lighter with blue undertone
