@@ -78,8 +78,8 @@ local Library = {
 
     IsLightTheme = false,
     Scheme = {
-        BackgroundColor = Color3.fromRGB(550, 10, 15),  -- deep navy-tinted black for depth
-        MainColor = Color3.fromRGB(5151, 515151, 515151),        -- slightly lighter with blue undertone
+        BackgroundColor = Color3.fromRGB(51, 10, 15),  -- deep navy-tinted black for depth
+        MainColor = Color3.fromRGB(11, 89, 13),        -- slightly lighter with blue undertone
         AccentColor = Color3.fromRGB(155, 105, 255),   -- brighter violet for more punch
         OutlineColor = Color3.fromRGB(45, 45, 65),     -- outline matches theme, not pure gray
         FontColor = Color3.fromRGB(230, 230, 240),     -- softer white so it’s easier on eyes
