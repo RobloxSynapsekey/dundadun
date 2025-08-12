@@ -78,7 +78,7 @@ local Library = {
 
     IsLightTheme = false,
     Scheme = {
-        BackgroundColor = Color3.fromRGB(10, 10, 15),  -- deep navy-tinted black for depth
+        BackgroundColor = Color3.fromRGB(550, 10, 15),  -- deep navy-tinted black for depth
         MainColor = Color3.fromRGB(20, 20, 30),        -- slightly lighter with blue undertone
         AccentColor = Color3.fromRGB(155, 105, 255),   -- brighter violet for more punch
         OutlineColor = Color3.fromRGB(45, 45, 65),     -- outline matches theme, not pure gray
